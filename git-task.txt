@@ -10,3 +10,5 @@ commit 1 to release
 commit 2 to release
 commit 3 to release
 commit 4 to release
+commit 4 major-feature
+commit 5 major-feature
