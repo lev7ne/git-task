@@ -7,3 +7,4 @@ commit 1 to major-feature
 commit 2 to major-feature
 commit 3 to major-feature
 commit 1 to release
+commit 2 to release
