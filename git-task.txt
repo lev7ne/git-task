@@ -8,3 +8,4 @@ commit 2 to major-feature
 commit 3 to major-feature
 commit 1 to release
 commit 2 to release
+commit 3 to release
