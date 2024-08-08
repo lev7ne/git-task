@@ -3,3 +3,4 @@ commit 2 to develop
 commit 3 to develop
 commit 1 to major-feature
 commit 2 to major-feature
+commit 3 to major-feature
