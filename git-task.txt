@@ -6,3 +6,4 @@ commit 1 to hotfixes
 commit 1 to major-feature
 commit 2 to major-feature
 commit 3 to major-feature
+commit 1 to release
